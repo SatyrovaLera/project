@@ -1,3 +1,1 @@
-# hey
-Lera
-update from gitKraken
+lesson 12
